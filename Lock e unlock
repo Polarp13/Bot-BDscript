@@ -1,4 +1,4 @@
-lock:
+lock:z/lock
 $nomention
 $modifyChannelPerms[$channelID;-sendmessages;$guildID]
 $title[Canal de texto]
